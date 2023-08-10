@@ -1,3 +1,3 @@
-module github.com/elizhenin/golearningmodule
+module golearningmodule
 
 go 1.20
